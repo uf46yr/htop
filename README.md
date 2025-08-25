@@ -1,5 +1,3 @@
-# htop
-
 # Enhanced System Monitor
 
 A feature-rich, terminal-based system monitoring tool built with Python's curses library. This tool provides real-time monitoring of system resources and processes with a colorful, user-friendly interface.
